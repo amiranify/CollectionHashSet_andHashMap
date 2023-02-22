@@ -1,4 +1,4 @@
-# CollectionHashSet_andHashMap
+# Домашнее задание по теме «Коллекции HashSet и HashMap»
 
 ## Задача 1 (обязательная)
 Перед вами [классический](https://loremipsum.io/) для графического дизайна текст Lorem Ipsum:
